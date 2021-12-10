@@ -1,0 +1,6 @@
+BraTS2020:
+  TrainingDataPath:
+    E:\SelfProgram\OverseasProject\012-QualityControl\BraTS2020\MICCAI_BraTS2020_TrainingData\
+  PreprocessedDataPath:
+    E:\SelfProgram\OverseasProject\012-QualityControl\BraTS2020\TrainingDataNPY\
+

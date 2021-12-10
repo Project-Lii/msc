@@ -1,0 +1,8 @@
+BraTS2020:
+  TrainingDataPath:
+    /home/luxiwen/Datasets/BraTS2020/MICCAI_BraTS2020_TrainingData/
+  PreprocessedDataPath:
+    /home/luxiwen/Datasets/BraTS2020/preTrain
+  SplitDataPath:
+    /home/luxiwen/Datasets/BraTS2020/trick
+
